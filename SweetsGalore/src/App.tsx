@@ -8,8 +8,6 @@ import { ShoppingCartProvider } from "./Context/shooppingCardContext";
 import ShoppingCart from "./Components/ShoppingCart";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <ShoppingCartProvider>
       <NavBar />
