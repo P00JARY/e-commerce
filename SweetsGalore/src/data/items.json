@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Bar",
+    "imgURL": "https://images.unsplash.com/photo-1620782405299-fa7bf520f0dc",
+    "price": 1.99
+  },
+  {
+    "id": 2,
+    "name": "Candy Canes",
+    "imgURL": "https://images.unsplash.com/photo-1511533554489-7a7f74367e19",
+    "price": 0.99
+  },
+  {
+    "id": 3,
+    "name": "Gummy Bears",
+    "imgURL": "https://images.unsplash.com/photo-1584981932364-b4fbecba51d4",
+    "price": 2.49
+  },
+  {
+    "id": 4,
+    "name": "Jelly Beans",
+    "imgURL": "https://images.unsplash.com/photo-1577891056124-48a62b48d024",
+    "price": 1.49
+  },
+  {
+    "id": 5,
+    "name": "Lollipop",
+    "imgURL": "https://images.unsplash.com/photo-1569215303464-0e455cbd2f1e",
+    "price": 0.99
+  },
+  {
+    "id": 6,
+    "name": "Marshmallow",
+    "imgURL": "https://images.unsplash.com/photo-1602081488739-2e0d21a57a3e",
+    "price": 0.79
+  },
+  {
+    "id": 7,
+    "name": "Sour Patch Kids",
+    "imgURL": "https://images.unsplash.com/photo-1516686347049-fb6fac5f075d",
+    "price": 1.99
+  },
+  {
+    "id": 8,
+    "name": "Toffee",
+    "imgURL": "https://images.unsplash.com/photo-1619880263424-f4f4dcb23fbf",
+    "price": 2.99
+  },
+  {
+    "id": 9,
+    "name": "Rock Candy",
+    "imgURL": "https://images.unsplash.com/photo-1568650953826-0ea931ef05c6",
+    "price": 1.49
+  },
+  {
+    "id": 10,
+    "name": "Skittles",
+    "imgURL": "https://images.unsplash.com/photo-1589739505621-cf6a5d992482",
+    "price": 1.79
+  },
+  {
+    "id": 11,
+    "name": "Snickers",
+    "imgURL": "https://unsplash.com/photos/oK-gogZ5pbk",
+    "price": 1.99
+  }
+]
